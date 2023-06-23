@@ -1,0 +1,52 @@
+/* .public-DraftStyleDefault-pre {
+    background: rgba(0, 0, 0, 0.02);
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 3px lightgray;
+    font-size: 1rem
+} */
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+    font-family: 'Roboto';
+}
+
+.blogImageWidth {
+    max-width: 100%;
+}
+img {
+    max-width: 100%;
+}
+pre {
+    /* white-space: pre-wrap; */
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+
+code {
+    line-height: 1.8 !important;
+    font-size: 1rem !important;
+    overflow: auto;
+    font-family: 'Fira Code';
+    opacity: 1 !important;
+}
+.MuiDropzoneArea-root {
+    min-height: auto !important;
+}
+.css-15zri90-MuiMobileStepper-dot  {
+    background-color: #fff !important;
+}
+.MuiChip-label {
+    overflow: visible !important;
+}
+.MuiSelect-select {
+    max-width: 100%;
+    padding-right: 0 !important;
+}
+.MuiSelect-select  img {
+    max-width: none !important;
+    margin-top: 6px !important
+}

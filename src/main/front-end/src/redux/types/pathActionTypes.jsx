@@ -1,0 +1,4 @@
+const CURRENT_ROUTE = "CURRENT_ROUTE";
+export {
+    CURRENT_ROUTE,
+}
